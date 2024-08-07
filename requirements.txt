@@ -1,2 +1,6 @@
 discord
 request
+dotenv
+yt_dlp
+qrcode
+
